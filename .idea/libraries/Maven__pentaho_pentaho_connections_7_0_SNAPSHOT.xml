@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-connections:7.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-connections/7.0-SNAPSHOT/pentaho-connections-7.0-20160824.021732-573.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-connections/7.0-SNAPSHOT/pentaho-connections-7.0-20160824.021732-573-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-connections/7.0-SNAPSHOT/pentaho-connections-7.0-20160824.021732-573-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

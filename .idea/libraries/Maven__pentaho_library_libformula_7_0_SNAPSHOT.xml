@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho-library:libformula:7.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-library/libformula/7.0-SNAPSHOT/libformula-7.0-20160824.022345-585.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-library/libformula/7.0-SNAPSHOT/libformula-7.0-20160824.022345-585-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-library/libformula/7.0-SNAPSHOT/libformula-7.0-20160824.022345-585-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans:nbmdr:200507110943-custom">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/nbmdr/200507110943-custom/nbmdr-200507110943-custom.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/nbmdr/200507110943-custom/nbmdr-200507110943-custom-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/nbmdr/200507110943-custom/nbmdr-200507110943-custom-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

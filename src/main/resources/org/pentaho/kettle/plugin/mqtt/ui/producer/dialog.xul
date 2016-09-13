@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<dialog id="producer-step-dialog"
+        pack="true"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+        xmlns:pen="http://www.pentaho.org/2008/xul"
+        title="${Producer.Shell.Title}"
+        resizable="true"
+        height="250" width="600"
+        appicon="ui/images/spoon.ico"
+        buttons="extra1,accept,cancel"
+        buttonalign="end"
+        buttonlabelextra1="${Dialog.Help}"
+        buttonlabelaccept="${Dialog.Accept}"
+        buttonlabelcancel="${Dialog.Cancel}"
+        ondialogextra1="handler.onHelp()"
+        ondialogaccept="handler.onAccept()"
+        ondialogcancel="handler.onCancel()">
+
+    <vbox>
+
+        <grid>
+            <columns>
+                <column/>
+                <column flex="1"/>
+            </columns>
+            <rows>
+                <row>
+                    <label value="${ProducerStep.Name}"/>
+                    <textbox id="step-name" flex="1" multiline="false"/>
+                </row>
+            </rows>
+        </grid>
+
+
+        <groupbox>
+            <caption label="${ProducerStep.Configuration.Label}"/>
+            <hbox>
+                <grid>
+                    <columns>
+                        <column/>
+                        <column flex="1"/>
+                    </columns>
+                    <rows>
+                        <row>
+                            <label value="${ProducerStep.Pbroker}"/>
+                            <textbox id="pBroker-field" flex="1" width="400" multiline="false"/>
+                        </row>
+                    </rows>
+                </grid>
+            </hbox>
+            <vbox id="content-pane"/>
+        </groupbox>
+
+        <groupbox>
+            <caption label="${ProducerStep.Properties.Label}"/>
+            <hbox>
+                <grid>
+                    <columns>
+                        <column/>
+                        <column flex="1"/>
+                    </columns>
+                    <rows>
+                        <row>
+                            <label value="${ProducerStep.messageField}"/>
+                            <menulist id="message-fieldname" flex="1" width="400" editable="true" pen:binding="name">
+                                <menupopup>
+                                </menupopup>
+                            </menulist>
+                        </row>
+                        <row>
+                            <label value="${ProducerStep.topic.Pbroker}"/>
+                            <textbox id="pTopic-field" flex="1" width="300" multiline="false"/>
+                        </row>
+                        <row>
+                            <label value="${ProducerStep.pClient.id.Label}" />
+                            <textbox id="pClientID-field" flex="1" width="300" multiline="false"/>
+                        </row>
+                        <row>
+                            <label value="${ProducerStep.qos.Label}" />
+                            <textbox id="qos-field" flex="1" width="100" multiline="false"/>
+                        </row>
+                    </rows>
+                </grid>
+            </hbox>
+            <vbox id="content-pane"/>
+        </groupbox>
+
+    </vbox>
+</dialog>

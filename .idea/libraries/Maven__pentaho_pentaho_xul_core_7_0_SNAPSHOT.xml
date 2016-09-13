@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-xul-core:7.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-core/7.0-SNAPSHOT/pentaho-xul-core-7.0-20160824.030448-570.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-core/7.0-SNAPSHOT/pentaho-xul-core-7.0-20160824.030448-570-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-core/7.0-SNAPSHOT/pentaho-xul-core-7.0-20160824.030448-570-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

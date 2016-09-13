@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho-kettle:kettle-dbdialog:7.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-kettle/kettle-dbdialog/7.0-SNAPSHOT/kettle-dbdialog-7.0-20160824.035603-2022.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-kettle/kettle-dbdialog/7.0-SNAPSHOT/kettle-dbdialog-7.0-20160824.035603-2022-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho-kettle/kettle-dbdialog/7.0-SNAPSHOT/kettle-dbdialog-7.0-20160824.035603-2022-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
